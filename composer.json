@@ -1,5 +1,5 @@
 {
-    "name": "cakephp-api-flash",
+    "name": "cakedone/cakephp-api-flash",
     "description": "CakePHP 3 plugin that adds any flash message to the response.",
     "type": "cakephp-plugin",
     "keywords": [
