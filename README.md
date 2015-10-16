@@ -19,7 +19,7 @@ $this->ApiFlash->set('success', 'You were successfully authenticated!')
 
 ```
 
-It will simply an array to the `flash` key in the response body:
+It will simply add an array to the `flash` key in the response body:
 ```php
 [
 	'flash' => [
