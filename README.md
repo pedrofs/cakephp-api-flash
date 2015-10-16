@@ -1,4 +1,4 @@
-### CakePHP API Flash
+# CakePHP API Flash
 
 This plugin consists of only a component to be used in your controllers in order to set flash message in the serialized response.
 
